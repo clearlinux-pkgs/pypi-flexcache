@@ -7,7 +7,7 @@
 #
 Name     : pypi-flexcache
 Version  : 0.3
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/55/b0/8a21e330561c65653d010ef112bf38f60890051d244ede197ddaa08e50c1/flexcache-0.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/55/b0/8a21e330561c65653d010ef112bf38f60890051d244ede197ddaa08e50c1/flexcache-0.3.tar.gz
 Summary  : Saves and loads to the cache a transformed versions of a source object.
